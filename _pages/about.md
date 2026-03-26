@@ -13,6 +13,8 @@ I am currently a PhD student in the Department of Computer Science and Engineeri
 
 My research focuses on **Programming Language, Software Engineering, Security**.
 
+Contact: gxuah [at] cse [dot] ust [dot] hk
+
 ## Selected Publications
 
 <div style="margin: 1.1rem 0 1.6rem 0; padding: 1rem 1.1rem; border-left: 4px solid #0b3a7e; background: linear-gradient(90deg, #f7faff 0%, #ffffff 100%); border-radius: 6px;">

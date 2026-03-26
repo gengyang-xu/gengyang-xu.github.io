@@ -40,3 +40,9 @@ Contact: gxuah [at] cse [dot] ust [dot] hk
 ## Teaching
 
 - Teaching Assistant for COMP 1945: Artificial Intelligence for Everyone<br/>(HKUST, Spring 2026)
+
+## Visitor Map
+
+<div style="margin-top: 0.8rem; width: 260px; max-width: 100%;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dS34j-rmpJvs-r249OPWkG6Bz_w0Cy6OhnLKvF4e_ZQ&cl=ffffff&w=260"></script>
+</div>

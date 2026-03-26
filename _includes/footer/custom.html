@@ -14,30 +14,7 @@
 </script>
 
 {% if site.visitor_map.enabled and site.visitor_map.provider == "clustrmaps" and site.visitor_map.clustrmaps_id != "" %}
-<style>
-    .footer-clustrmaps {
-        margin: 1rem auto 0 auto;
-        text-align: center;
-        width: 260px;
-        max-width: 100%;
-        min-height: 170px;
-        overflow: hidden;
-    }
-
-    .footer-clustrmaps #clustrmaps,
-    .footer-clustrmaps #clustrmaps-widget-v2,
-    .footer-clustrmaps #clustrmaps-widget-v2 > div {
-        position: static !important;
-        right: auto !important;
-        bottom: auto !important;
-        left: auto !important;
-        margin: 0 auto !important;
-        transform: none !important;
-    }
-</style>
-<div class="footer-clustrmaps">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dS34j-rmpJvs-r249OPWkG6Bz_w0Cy6OhnLKvF4e_ZQ&cl=ffffff&w=260"></script>
-</div>
+<!-- ClustrMaps moved to about page to avoid footer layout jitter on scroll -->
 {% endif %}
 
 <!-- end custom footer snippets -->

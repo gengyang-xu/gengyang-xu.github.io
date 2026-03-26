@@ -43,6 +43,6 @@ Contact: gxuah [at] cse [dot] ust [dot] hk
 
 ## Visitor Map
 
-<div style="margin-top: 0.8rem; width: 260px; max-width: 100%;">
+<div style="margin: 0.8rem auto 0 auto; width: 260px; max-width: 100%; text-align: center;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dS34j-rmpJvs-r249OPWkG6Bz_w0Cy6OhnLKvF4e_ZQ&cl=ffffff&w=260"></script>
 </div>

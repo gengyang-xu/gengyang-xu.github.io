@@ -163,11 +163,11 @@ analytics:
   google:
     tracking_id          :
 
-# Visitor map (ClustrMaps)
+# Visitor map (MapMyVisitors)
 visitor_map:
   enabled                : true
-  provider               : "clustrmaps"
-  clustrmaps_id          : "dS34j-rmpJvs-r249OPWkG6Bz_w0Cy6OhnLKvF4e_ZQ" # Paste the `d` value from your ClustrMaps embed script
+  provider               : "mapmyvisitors"
+  mapmyvisitors_id       : "ttWSFIONVkO6LyFMtAy5TPO-FY2eA7gpMuFq_zgR6_A" # Paste the `d` value from your MapMyVisitors embed script
 
 
 # Reading Files

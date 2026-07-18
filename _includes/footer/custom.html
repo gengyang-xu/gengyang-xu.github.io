@@ -13,8 +13,8 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-{% if site.visitor_map.enabled and site.visitor_map.provider == "clustrmaps" and site.visitor_map.clustrmaps_id != "" %}
-<!-- ClustrMaps moved to about page to avoid footer layout jitter on scroll -->
+{% if site.visitor_map.enabled and site.visitor_map.provider == "mapmyvisitors" and site.visitor_map.mapmyvisitors_id != "" %}
+<!-- MapMyVisitors is embedded on the about page to avoid footer layout jitter on scroll -->
 {% endif %}
 
 <!-- end custom footer snippets -->

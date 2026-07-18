@@ -23,7 +23,7 @@ Contact: gxuah [at] cse [dot] ust [dot] hk
     <span style="display: inline-block; padding: 0.18rem 0.58rem; background-color: #e9f0ff; color: #0b3a7e; border: 1px solid #c7d8ff; border-radius: 999px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;">CCF-A</span>
   </div>
   <div style="font-family: Georgia, Times, serif; font-size: 1.16rem; line-height: 1.35; font-weight: 700; color: #13213a; margin-bottom: 0.42rem;">
-    <a href="" style="color: inherit; text-decoration: none; border-bottom: 1px solid rgba(11, 58, 126, 0.28);">MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents</a>
+    <a href="https://dl.acm.org/doi/10.1145/3798212" style="color: inherit; text-decoration: none; border-bottom: 1px solid rgba(11, 58, 126, 0.28);">MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents</a>
   </div>
   <div style="font-size: 0.97rem; color: #24364f; margin-bottom: 0.25rem;">
     <strong style="color: #0b3a7e;">Gengyang Xu</strong>, Dongwei Xiao, Yiteng Peng, and Shuai Wang
@@ -60,5 +60,5 @@ Contact: gxuah [at] cse [dot] ust [dot] hk
 ## Visitor Map
 
 <div style="margin: 0.8rem auto 0 auto; width: 260px; max-width: 100%; text-align: center;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dS34j-rmpJvs-r249OPWkG6Bz_w0Cy6OhnLKvF4e_ZQ&cl=ffffff&w=260"></script>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ttWSFIONVkO6LyFMtAy5TPO-FY2eA7gpMuFq_zgR6_A&cl=ffffff&w=a"></script>
 </div>
